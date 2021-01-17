@@ -1,0 +1,31 @@
+Cd directoryname 
+Git init 
+Ls -la
+Ls -la .git 
+Git add .
+Git commit -m "initial message" 
+
+1. Make changes to file
+2. Add the changes 
+3.commit changes to repository with a message 
+
+Git log or git log -n 5 or git log --since=2019-01-01 or git log --until=2019-01-01 or git log --author="Sravanthi"
+
+Git log --grep ="Bugfix"
+
+To show the history of all commits 
+
+Git status 
+
+To check for the status of file
+
+Git checkout first.txt 
+
+To trigger back to last version 
+
+Git rm filename 
+
+To delete a file from a directory
+
+Done 
+Done
